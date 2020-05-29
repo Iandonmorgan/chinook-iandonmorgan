@@ -7,9 +7,9 @@ GitHub: https://github.com/iandonmorgan
 
 ## Project Setup
 
-* Clone down the repo and `cd` into it
+Clone down the repo and `cd` into it
 
-* Open `Chinook_Sqlite.sqlite` file using TablePlus, and open any of the following queries, below
+Open `Chinook_Sqlite.sqlite` file using TablePlus, and open any of the following queries, below
 
     1. `non_usa_customers.sql`: Provide a query showing Customers (just their full names, customer ID and country) who are not in the US.
 
