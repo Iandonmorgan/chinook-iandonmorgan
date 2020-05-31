@@ -37,11 +37,11 @@ GitHub: https://github.com/iandonmorgan
 
     * `line_item_track_artist.sql`: Query that includes the purchased track name AND artist name with each invoice line item.
 
-    * `country_invoices.sql`: Provide a query that shows the # of invoices per country. HINT: GROUP BY
+    * `country_invoices.sql`: Query that shows the # of invoices per country.
 
-    <!-- * `playlists_track_count.sql`: Provide a query that shows the total number of tracks in each playlist. The Playlist name should be include on the resulant table.
+    * `playlists_track_count.sql`: Query that shows the total number of tracks in each playlist.
 
-    * `tracks_no_id.sql`: Provide a query that shows all the Tracks, but displays no IDs. The result should include the Album name, Media type and Genre.
+    <!-- * `tracks_no_id.sql`: Provide a query that shows all the Tracks, but displays no IDs. The result should include the Album name, Media type and Genre.
 
     * `invoices_line_item_count.sql`: Provide a query that shows all Invoices but includes the # of invoice line items.
 
