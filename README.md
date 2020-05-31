@@ -61,6 +61,6 @@ GitHub: https://github.com/iandonmorgan
 
     * `top_5_tracks.sql`: Query that shows the top 5 most purchased tracks over-all.
 
-    <!-- * `top_3_artists.sql`: Provide a query that shows the top 3 best selling artists.
+    * `top_3_artists.sql`: Query that shows the top 3 best selling artists.
 
-    * `top_media_type.sql`: Provide a query that shows the most purchased Media Type. -->
+    <!-- * `top_media_type.sql`: Provide a query that shows the most purchased Media Type. -->
