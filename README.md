@@ -49,9 +49,9 @@ GitHub: https://github.com/iandonmorgan
 
     * `top_2009_agent.sql`: Query to show the sales agent who made the most in sales in 2009, and that total.
 
-    <!-- * `top_agent.sql`: Which sales agent made the most in sales over all?
+    * `top_agent.sql`: Query to show sales agent with the most in sales over-all.
 
-    * `sales_agent_customer_count.sql`: Provide a query that shows the count of customers assigned to each sales agent.
+    <!-- * `sales_agent_customer_count.sql`: Provide a query that shows the count of customers assigned to each sales agent.
 
     * `sales_per_country.sql`: Provide a query that shows the total sales per country.
 
