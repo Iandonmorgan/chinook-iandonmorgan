@@ -1,4 +1,4 @@
-SELECT i.InvoiceId, i.InvoiceDate, i.BillingAddress, i.BillingCity, i.BillingState, i.BillingCountry, i.BillingPostalCode, i.Total, e.FirstName as Agent_FirstName, e.LastName as Agent_LastName
+SELECT i.InvoiceId, i.InvoiceDate, i.BillingAddress, i.BillingCity, i.BillingState, i.BillingCountry, i.BillingPostalCode, i.Total, (e.FirstName || ' ' || e.LastName) as 'Agent Name'
 FROM Invoice i
 JOIN Customer c
 ON i.CustomerId = c.CustomerId
