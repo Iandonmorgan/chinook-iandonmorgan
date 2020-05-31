@@ -45,9 +45,9 @@ GitHub: https://github.com/iandonmorgan
 
     * `invoices_line_item_count.sql`: Query that shows all Invoices but includes the # of invoice line items.
 
-    <!-- * `sales_agent_total_sales.sql`: Provide a query that shows total sales made by each sales agent.
+    * `sales_agent_total_sales.sql`: Query that shows total sales made by each sales agent.
 
-    * `top_2009_agent.sql`: Which sales agent made the most in sales in 2009?
+    <!-- * `top_2009_agent.sql`: Which sales agent made the most in sales in 2009?
 
         * Hint: Use the MAX function on a subquery.
 
