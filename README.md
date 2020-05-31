@@ -31,11 +31,11 @@ GitHub: https://github.com/iandonmorgan
 
     * `invoice_37_line_item_count.sql`: Query that COUNTs the number of line items in InvoiceLine Table with an InvoiceId of 37.
 
-    <!-- * `line_items_per_invoice.sql`: Looking at the InvoiceLine table, provide a query that COUNTs the number of line items for each Invoice. HINT: GROUP BY
+    * `line_items_per_invoice.sql`: Query that COUNTs the number of line items for each Invoice.
 
-    * `line_item_track.sql`: Provide a query that includes the purchased track name with each invoice line item.
+    * `line_item_track.sql`: Query that includes the purchased track name with each invoice line item.
 
-    * `line_item_track_artist.sql`: Provide a query that includes the purchased track name AND artist name with each invoice line item.
+    <!-- * `line_item_track_artist.sql`: Provide a query that includes the purchased track name AND artist name with each invoice line item.
 
     * `country_invoices.sql`: Provide a query that shows the # of invoices per country. HINT: GROUP BY
 
