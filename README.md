@@ -47,11 +47,9 @@ GitHub: https://github.com/iandonmorgan
 
     * `sales_agent_total_sales.sql`: Query that shows total sales made by each sales agent.
 
-    <!-- * `top_2009_agent.sql`: Which sales agent made the most in sales in 2009?
+    * `top_2009_agent.sql`: Query to show the sales agent who made the most in sales in 2009, and that total.
 
-        * Hint: Use the MAX function on a subquery.
-
-    * `top_agent.sql`: Which sales agent made the most in sales over all?
+    <!-- * `top_agent.sql`: Which sales agent made the most in sales over all?
 
     * `sales_agent_customer_count.sql`: Provide a query that shows the count of customers assigned to each sales agent.
 
