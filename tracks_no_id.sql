@@ -6,3 +6,4 @@ JOIN MediaType mt
 ON t.MediaTypeId = mt.MediaTypeId
 JOIN Genre g
 ON t.GenreId = g.GenreId
+ORDER BY a.Title, t.Name
